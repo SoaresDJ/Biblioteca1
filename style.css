@@ -1,0 +1,33 @@
+body{
+    background: green;
+}
+.principe{
+   position:absolute;
+   left:110px;
+   top:210px;
+}
+.mesa{
+    position:absolute;
+    left:880px;
+    top: 560px;
+}
+.venda{
+    position:absolute;
+    left:1600px;
+    top:210px;
+}
+.prec1{
+    position:absolute;
+    top: 480px;
+    left:170px;
+}
+.prec2{
+    position:absolute;
+    top: 860px;
+    left: 920px;
+}
+.prec3{
+    position:absolute;
+    left: 1680px;
+    top: 480px;
+}
